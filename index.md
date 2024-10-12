@@ -1,4 +1,4 @@
-# TheAlgorithms/Python
+# TheAlgorithms/Python.
 ```{toctree}
 :maxdepth: 2
 :caption: index.md
